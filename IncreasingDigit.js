@@ -9,6 +9,6 @@ function findCombinations(N, start = 1, currentCombination = []) {
 }
 
 
-let N = 2;
+let N = 10;
 findCombinations(N);
 
